@@ -24,7 +24,7 @@ function App() {
   return (
     <div className="App">
       <h1>Postcoders</h1>
-      <div className={"PostcodeInput"}>
+      <div className="PostcodeInput">
         <h2>Enter postcode outcode here</h2>
         <form onSubmit={handleSubmit}>
           <input
